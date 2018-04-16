@@ -1,2 +1,1 @@
-# fizzbuzz
-# fizzbuzz
+#Basic Javascript Challenges
